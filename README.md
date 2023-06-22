@@ -33,7 +33,7 @@ To play the Simon Game locally, follow these steps:
 5. Enjoy the game and challenge your memory skills!
 
 ## Demo
-A live demo of the Simon Game is available at [https://your-demo-link.com](https://your-demo-link.com).
+A live demo of the Simon Game is available at [https://dhamkirti21.github.io/Simon-Game/](https://dhamkirti21.github.io/Simon-Game/).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
